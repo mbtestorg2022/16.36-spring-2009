@@ -77,9 +77,9 @@ Problem set 6 ([PDF]({{< baseurl >}}/resources/mit16_36s09_assn06))
 {{< tdopen >}}
 
 
-rand\_bitstring.m ([M](/courses/aeronautics-and-astronautics/16-36-communication-systems-engineering-spring-2009/assignments/rand_bitstring.m))
+rand\_bitstring.m ({{% resource_link "690c618d-c6ec-8b3d-0ff2-3a1ebb02a081" "M" %}})
 
-error\_check.m ([M](/courses/aeronautics-and-astronautics/16-36-communication-systems-engineering-spring-2009/assignments/error_check.m))
+error\_check.m ({{% resource_link "66bf2c11-0dde-03e8-88ed-095cbafb7207" "M" %}})
 
 
 {{< tdclose >}}

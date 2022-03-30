@@ -6,6 +6,7 @@ description: Supporting file for an assignment to implement a quantizer for a sa
   Jamendo.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-36-communication-systems-engineering-spring-2009/115556d677e1c7945509f80fb12995a3_clip.wav
 file_type: audio/x-wav
+parent_uid: d87d186a-8c38-b970-ae17-9431a75f2842
 resourcetype: Other
 title: clip
 uid: 115556d6-77e1-c794-5509-f80fb12995a3
